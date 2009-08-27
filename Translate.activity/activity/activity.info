@@ -1,0 +1,9 @@
+[Activity]
+name = Translate
+bundle_id = com.palexo.sugar.TranslateActivity
+class = TranslateActivity.TranslateActivity
+icon = activity-translate
+activity_version = 1
+host_version = 1
+show_launcher = yes
+
