@@ -7,7 +7,7 @@ pygtk.require('2.0')
 from gtlib import translate as translate
 import languages
 
- 
+# Adding a comment to test the subclipse functionality! 
 class TranslateActivity(activity.Activity):
     def __init__(self, handle):
         print "running activity init", handle
